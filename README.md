@@ -21,7 +21,7 @@ Australia’s data center market is a key growth driver, fueled by AI and cloud 
 
 VPX SBCs support real-time data processing in hyperscale data centers, particularly for 5G and IoT applications. A June 2025 report notes Australia’s stable backdrop makes it a prime target for data center development in Asia-Pacific, with Sydney and Melbourne as key hubs. The integration of VPX SBCs in AI supercomputers, like those launched in Australia in June 2025, further boosts demand, supporting breakthroughs in medicine and climate science.
 
-Inquire Before Buying
+[**Inquire Before Buying**](https://www.nextmsc.com/australia-vpx-sbc-market-se3103/inquire-before-buying)
 
 ## Industrial Automation and IoT: A Growing Frontier
 
